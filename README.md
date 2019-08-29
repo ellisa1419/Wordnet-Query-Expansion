@@ -8,7 +8,7 @@ I have used used Lucene Search engine to compare the search results with baselin
 I have used Python NLTK to use Wordnet database to expand the query.
 
 
-#EDIT
+# EDIT
 This repository got more famous than I expected and I got so many emails and messsages from students to better understand my code.
 
 Hence, here are my brief steps to explain what I did:
